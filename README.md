@@ -28,4 +28,6 @@
 ## Контактная информация
 - Email: yagriv16@gmail.com
 - HH.ru: https://hh.ru/resume/14d87fb9ff0bc444df0039ed1f775755366c58?hhtmFrom=resume_list
+- Notion: https://dynamic-pike-339.notion.site/81ce5d025cf2481da8b55d61b3c5eda3?pvs=4
+
 
